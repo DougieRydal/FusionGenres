@@ -1,2 +1,2 @@
 # FusionGenres
-Folders of various Genres for Fusion app
+Folders of various Genres for Fusion app - Portrait
